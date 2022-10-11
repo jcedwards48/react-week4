@@ -1,14 +1,12 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
+import Search from "./Search";
 
-function App() {
+export default function App() {
   return (
-    <header className="App-header">
-      <div className="App">
-        <h1>React Weather App</h1>
-      </div>
-    </header>
+    <div className="App">
+      <h1>React Weather Engine</h1>
+      <Search />
+    </div>
   );
 }
-
 export default App;

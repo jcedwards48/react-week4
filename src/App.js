@@ -5,7 +5,16 @@ export default function App() {
   return (
     <div className="App">
       <h1>React Weather Engine</h1>
-      Search />
+     <br />
+     <div>
+     <footer>
+      This project was coded by Jeanne C. Edwards and is open-sourced on Github
+
+      <a href="https://github.com/jcedwards48/react-week4"
+      target="blank">
+
+      </a>
+     </footer>
     </div>
   );
 }

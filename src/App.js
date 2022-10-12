@@ -12,7 +12,8 @@ export default function App() {
           target="_blank"
         ></a>
       </footer>
-      Search />
     </div>
+      Search />
+    
   );
 }

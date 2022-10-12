@@ -11,9 +11,8 @@ export default function App() {
           href="https://github.com/jcedwards48/react-week4"
           target="_blank"
         ></a>
+        Search />
       </footer>
     </div>
-      Search />
-    
   );
 }

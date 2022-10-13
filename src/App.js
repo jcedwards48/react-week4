@@ -10,6 +10,10 @@ export default function App() {
       <footer>
         This project was coded by Jeanne C. Edwards and is open-sourced on
         Github
+        <a
+          href="https://github.com/jcedwards48/react-week4"
+          target="_blank"
+        ></a>
       </footer>
     </div>
   );

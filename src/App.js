@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <h1>React Weather Engine</h1>
       <br />
-      Search />
+      <Search />
       <footer>
         This project was coded by Jeanne C. Edwards and is open-sourced on
         Github
